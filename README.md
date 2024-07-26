@@ -4,7 +4,7 @@
 - 💞️ Open to collaborating on data-driven projects and analytics challenges.
 - 📫 Feel free to reach out via kparco7@gmail.com.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I can listen to musics all day!
+- ⚡ Fun fact: I can listen to music all day!
 
 <!---
 kimparco15/kimparco15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
