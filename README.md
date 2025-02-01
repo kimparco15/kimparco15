@@ -12,24 +12,19 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Skills
 
-**Programming Languages:**
-- 🐍 Python
-- 📊 SQL
+### Skills  
 
-**Data Analysis & Visualization:**
-- 📈 Pandas
-- 🔢 NumPy
-- 📉 Matplotlib
-- 🎨 Seaborn
-  
-**Tools & Technologies:**
-- 📊 Excel
-- 📈 Power BI
-- 📉 Tableau
+**Data Analysis & Visualization:**  
+📊 Excel  
+📈 Power BI  
 
-**Databases:**
-- 🗃️ MySQL
-- 🗄️ PostgreSQL
+**Programming & Query Languages:**  
+📊 SQL  
+🐍 Basic Python  
 
-**Other:**
-- 📚 Statistical Analysis
+**Databases:**  
+🗃️ MySQL  
+
+**Mathematics for Data Analysis:**  
+📊 Probability & Statistics  
+
